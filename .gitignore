@@ -1,0 +1,3 @@
+pkg_local/*.*
+src/log.log
+src/tt.py
