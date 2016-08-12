@@ -1,3 +1,6 @@
 pkg_local/*.*
 src/log.log
 src/tt.py
+
+__pycache__/
+*.py[cod]
